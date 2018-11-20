@@ -1,0 +1,25 @@
+{  
+   "Food":[  
+      {  
+         "FoodId":"708",
+         "FoodName":"chickenasdasd keema",
+         "FoodRecepiee":"chicken keema, curry leaf lemon se",
+         "FoodPrice":"1650",
+         "FoodThumb":"http:\/\/rjtmobile.com\/ansari\/fos\/admin\/uploads\/food_menu_pics\/chettinad_chicken.jpg"
+      },
+      {  
+         "FoodId":"710",
+         "FoodName":"Tamarindasdasd Chicken",
+         "FoodRecepiee":"tamarind , coconut barley, cashew p",
+         "FoodPrice":"1550",
+         "FoodThumb":"http:\/\/rjtmobile.com\/ansari\/fos\/admin\/uploads\/food_menu_pics\/tamarind_john.jpg"
+      },
+      {  
+         "FoodId":"712",
+         "FoodName":"Bakedasdasd mutton aloo chila",
+         "FoodRecepiee":"baked mutton aloo chila, bone marrow curry",
+         "FoodPrice":"1750",
+         "FoodThumb":"http:\/\/rjtmobile.com\/ansari\/fos\/admin\/uploads\/food_menu_pics\/baked_mutton.jpg"
+      }
+   ]
+}
